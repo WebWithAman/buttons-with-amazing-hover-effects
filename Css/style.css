@@ -215,7 +215,7 @@ button::after {
     height: 100%;
     top: -8rem;
     left: 0;
-    background-image: url('../Assets/Images/water_wave.png');
+    background-image: url('../assets/images/water-wave.png');
     background-size: cover;
     animation: shake .4s linear infinite;
 }
